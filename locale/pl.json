@@ -1,0 +1,8 @@
+{
+    "hello": "Witaj, świecie!",
+    "animals":   {
+        "dog" : "pies",
+        "cat" : "kot"
+    },
+    "exit": "Zakończ"
+  }
