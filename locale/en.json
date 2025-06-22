@@ -4,5 +4,6 @@
         "dog" : "dog",
         "cat" : "cat"
     },
+    "sky": "sky",
     "exit": "Quit"
   }
